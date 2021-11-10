@@ -8,9 +8,10 @@ Para hacer estos ejercicios es necesario haber hecho antes los ejercicios sobre 
 2. Añadirlo al repositorio local del libro.
 3. Mostrar todos los repositorios remotos configurados.
 
-~~~git
-solución
-~~~
+	~~~
+	git submodule add https://github.com/JavierOG145/libro-git.git
+	git submodule status
+	~~~
 
 
 ## Ejercicio 2
